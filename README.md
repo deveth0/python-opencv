@@ -21,6 +21,6 @@ pip3 install opencv-python numpy
 
 I used several sources to build the projects.
 
-* [learnopencv.com](learnopencv.com)
+* [learnopencv.com](https://www.learnopencv.com/)
 * [Github: OpenCV samples](https://github.com/opencv/opencv/tree/master/samples/python)
 * [Github: Arun Ponnusamy - object-detection-opencv](https://github.com/arunponnusamy/object-detection-opencv)
